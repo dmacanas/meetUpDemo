@@ -1,0 +1,556 @@
+TtuneUpDemo
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Info.plist tuneUpDemo/tuneUpDemo-Info.plist
+cProcessPCH /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch.pth tuneUpDemo/tuneUpDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMAppDelegate.o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMViewController.o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/main.o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMSignInViewController.o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMSignInViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo normal i386
+cGenerateDSYMFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app.dSYM /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo
+cCpResource tuneUpDemo/Default-568h@2x.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default-568h@2x.png
+cCopyStringsFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/InfoPlist.strings tuneUpDemo/en.lproj/InfoPlist.strings
+cCpResource tuneUpDemo/Default@2x.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default@2x.png
+cCompileStoryboard /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPhone.storyboard
+cCompileStoryboard /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPad.storyboard
+cCpResource tuneUpDemo/Default.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default.png
+cCpResource tuneUpDemo/ptree.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/ptree.png
+cCpResource tuneUpDemo/gears.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/gears.png
+cTouch /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BE1CDE0000000000000110
+t1371413726
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510896600000000000228FE0
+t1359517280
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005108966100000000003DDFA0
+t1359517281
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005108966100000000000015F7
+t1359517281
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000510896620000000000000E8D
+t1359517282
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510896630000000000AB6230
+t1359517283
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000510896680000000000001B73
+t1359517288
+s7027
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app.dSYM
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default@2x.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Info.plist
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/PkgInfo
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/gears.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/ptree.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app.dSYM
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default@2x.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Info.plist
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/PkgInfo
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/gears.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/ptree.png
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo
+t2
+s0
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMAppDelegate.o
+t1374113273
+s85600
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMSignInViewController.o
+t1374113273
+s76128
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMViewController.o
+t1374113791
+s81440
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/main.o
+t1374113273
+s3288
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/tuneUpDemo.LinkFileList
+c0000000051E716D5000000000000028A
+t1374099157
+s650
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMAppDelegate.h
+c0000000051E09EEB0000000000000126
+t1373675243
+s294
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMAppDelegate.m
+c0000000051E09EEB00000000000007EB
+t1373675243
+s2027
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMSignInViewController.h
+c0000000051E716BC00000000000001FF
+t1374099132
+s511
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMSignInViewController.m
+c0000000051E735DD0000000000000427
+t1374107101
+s1063
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMViewController.h
+c0000000051E716BC0000000000000228
+t1374099132
+s552
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMViewController.m
+c0000000051E74EEC00000000000006E7
+t1374113516
+s1767
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default-568h@2x.png
+c000000005062328600000000000048A2
+t1348612742
+s18594
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default.png
+c0000000050623286000000000000198C
+t1348612742
+s6540
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default@2x.png
+c00000000506232860000000000003EEB
+t1348612742
+s16107
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/InfoPlist.strings
+c0000000051E09EEB000000000000002D
+t1373675243
+s45
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPad.storyboard
+c0000000051E716BC0000000000004B5C
+t1374099132
+s19292
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPhone.storyboard
+c0000000051E716BC0000000000004BBA
+t1374099132
+s19386
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/gears.png
+c0000000051E305900000000000114902
+t1373832592
+s1132802
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/main.m
+c0000000051E09EEB0000000000000161
+t1373675243
+s353
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/ptree.png
+c0000000051E303B60000000000061810
+t1373832118
+s399376
+
+N/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/tuneUpDemo-Prefix.pch
+c0000000051E09EEB0000000000000143
+t1373675243
+s323
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-chrbuyrunpprlhdgnsfkvmyxkugl/tuneUpDemo-Prefix.pch.pth
+t1374113273
+s4676952
+
+N/var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch.pth
+t1374012545
+s4676952
+
+NtuneUpDemo/tuneUpDemo-Info.plist
+c0000000051E09EEB0000000000000643
+t1373675243
+s1603
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1d00b5af8797b741^d6fec2af8797b741^---0#1#0#--18"Check dependencies36"6878F16F-BF00-4153-AADD-15EDD70167B9-
+
+CCompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMAppDelegate.o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395806639.786966
+e395806639.875680
+r1
+xCompileC
+xbuild/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMAppDelegate.o
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMAppDelegate.mf9a2c9af8797b741^802ce0af8797b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMAppDelegate.m0000000000000000^4072"CompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMAppDelegate.o tuneUpDemo/DKMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-generated-files.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-own-target-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-all-target-headers.hmap -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-project-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources/i386 -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources -F/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch -MMD -MT dependencies -MF /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMAppDelegate.d --serialize-diagnostics /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMAppDelegate.dia -c /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMAppDelegate.m -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMAppDelegate.o36"996C9637-59D4-4F29-8323-A2CFE572C572-
+
+CCompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMSignInViewController.o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMSignInViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395806639.787027
+e395806639.875471
+r1
+xCompileC
+xbuild/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMSignInViewController.o
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMSignInViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMSignInViewController.m9ca8c9af8797b741^bd1ee0af8797b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMSignInViewController.m0000000000000000^4126"CompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMSignInViewController.o tuneUpDemo/DKMSignInViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-generated-files.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-own-target-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-all-target-headers.hmap -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-project-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources/i386 -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources -F/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch -MMD -MT dependencies -MF /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMSignInViewController.d --serialize-diagnostics /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMSignInViewController.dia -c /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMSignInViewController.m -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMSignInViewController.o36"2655DFA9-78E7-47CE-AF1E-804F46CD4DB7-
+
+CCompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMViewController.o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395806639.787019
+e395806639.881443
+r1
+xCompileC
+xbuild/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMViewController.o
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMViewController.m59a4c9af8797b741^eca5e1af8797b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMViewController.m0000000000000000^4090"CompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMViewController.o tuneUpDemo/DKMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-generated-files.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-own-target-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-all-target-headers.hmap -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-project-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources/i386 -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources -F/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch -MMD -MT dependencies -MF /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMViewController.d --serialize-diagnostics /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMViewController.dia -c /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/DKMViewController.m -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/DKMViewController.o36"A04368B6-9109-44CC-B6BF-91C1A7CD0433-
+
+CCompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/main.o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395806639.787017
+e395806639.846252
+r1
+xCompileC
+xbuild/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/main.o
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/main.m26a8c9af8797b741^98a2d8af8797b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/main.m0000000000000000^4012"CompileC build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/main.o tuneUpDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-generated-files.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-own-target-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-all-target-headers.hmap -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-project-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources/i386 -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources -F/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch -MMD -MT dependencies -MF /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/main.dia -c /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/main.m -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/main.o36"25878D77-076A-463D-BED7-06C8AC729952-
+
+CCompileStoryboard /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPad.storyboard
+s395806639.941575
+e395806640.274007
+r1
+xCompileStoryboard
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard tuneUpDemo/en.lproj/MainStoryboard_iPad.storyboard6e33f1af8797b741^562c46b08797b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^1263"CompileStoryboard tuneUpDemo/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"D1C7236C-6A38-41AA-A5D2-56E71B0AE434-
+
+CCompileStoryboard /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPhone.storyboard
+s395806639.941556
+e395806640.285528
+r1
+xCompileStoryboard
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPhone.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CompileStoryboard tuneUpDemo/en.lproj/MainStoryboard_iPhone.storyboard5930f1af8797b741^1a1849b08797b741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^1269"CompileStoryboard tuneUpDemo/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"2CB3CFFA-15D0-4FF2-87DB-BD0C0CF52483-
+
+CCopyStringsFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/en.lproj/InfoPlist.strings tuneUpDemo/en.lproj/InfoPlist.strings
+s395806629.534208
+e395806629.541350
+r1
+xCopyStringsFile
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/en.lproj/InfoPlist.strings
+xtuneUpDemo/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy tuneUpDemo/en.lproj/InfoPlist.strings13ef88a58797b741^85958aa58797b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/InfoPlist.strings0000000000000000^899"CopyStringsFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/en.lproj/InfoPlist.strings tuneUpDemo/en.lproj/InfoPlist.strings    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/en.lproj -- tuneUpDemo/en.lproj/InfoPlist.strings36"27D265EE-A239-41D7-95B8-132359D95625-
+
+CCopyStringsFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/InfoPlist.strings tuneUpDemo/en.lproj/InfoPlist.strings
+s395806639.941499
+e395806639.946531
+r1
+xCopyStringsFile
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/InfoPlist.strings
+xtuneUpDemo/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy tuneUpDemo/en.lproj/InfoPlist.stringsc13bf1af8797b741^984ff2af8797b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/en.lproj/InfoPlist.strings0000000000000000^889"CopyStringsFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj/InfoPlist.strings tuneUpDemo/en.lproj/InfoPlist.strings    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/en.lproj -- tuneUpDemo/en.lproj/InfoPlist.strings36"055CA856-ED9A-40B3-A107-1EE0FF130EDD-
+
+CCpResource tuneUpDemo/Default-568h@2x.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default-568h@2x.png
+s395806629.534271
+e395806629.544877
+r1
+xCpResource
+xtuneUpDemo/Default-568h@2x.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default-568h@2x.pngfeef88a58797b741^677c8ba58797b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default-568h@2x.png000000000080d041^1076"CpResource "tuneUpDemo/Default-568h@2x.png" "/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default-568h@2x.png"    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default-568h@2x.png" /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app36"4BF636FA-7D35-4F74-AE82-3CD50F83DEE4-
+
+CCpResource tuneUpDemo/Default-568h@2x.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default-568h@2x.png
+s395806639.941476
+e395806639.949751
+r1
+xCpResource
+xtuneUpDemo/Default-568h@2x.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default-568h@2x.png323df1af8797b741^f222f3af8797b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default-568h@2x.png000000000080d041^1066"CpResource "tuneUpDemo/Default-568h@2x.png" "/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default-568h@2x.png"    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default-568h@2x.png" /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app36"F83CF757-1D16-46D9-AE17-A6AC29F32B85-
+
+CCpResource tuneUpDemo/Default.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default.png
+s395806629.534228
+e395806629.545821
+r1
+xCpResource
+xtuneUpDemo/Default.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default.pngfaf088a58797b741^aaba8ba58797b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default.png000000000080d041^1046"CpResource tuneUpDemo/Default.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default.png    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app36"4258FE58-DD73-466D-B966-95516F33BE4F-
+
+CCpResource tuneUpDemo/Default.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default.png
+s395806639.941571
+e395806639.950736
+r1
+xCpResource
+xtuneUpDemo/Default.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default.png3a3ff1af8797b741^c363f3af8797b741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default.png000000000080d041^1036"CpResource tuneUpDemo/Default.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default.png    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app36"EDD60DEB-7ABE-4735-AC32-8BE59104518E-
+
+CCpResource tuneUpDemo/Default@2x.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default@2x.png
+s395806629.534223
+e395806629.543167
+r1
+xCpResource
+xtuneUpDemo/Default@2x.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default@2x.png8dee88a58797b741^dd0c8ba58797b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default@2x.png000000000080d041^1061"CpResource "tuneUpDemo/Default@2x.png" "/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Default@2x.png"    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default@2x.png" /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app36"7F1CAF8C-F39E-4D91-893B-A4C8BA9B4256-
+
+CCpResource tuneUpDemo/Default@2x.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default@2x.png
+s395806639.941543
+e395806639.948489
+r1
+xCpResource
+xtuneUpDemo/Default@2x.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default@2x.png4f3ef1af8797b741^facff2af8797b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default@2x.png000000000080d041^1051"CpResource "tuneUpDemo/Default@2x.png" "/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Default@2x.png"    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/Default@2x.png" /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app36"FEEAD0CE-0FFF-4418-8473-3AE29D5BCB11-
+
+CCpResource tuneUpDemo/gears.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/gears.png
+s395806629.534352
+e395806629.549541
+r1
+xCpResource
+xtuneUpDemo/gears.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/gears.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/gears.pngabeb88a58797b741^b8ae8ca58797b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/gears.png000000000080d041^1040"CpResource tuneUpDemo/gears.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/gears.png    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/gears.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app36"04B4A558-35BD-4CFB-89EE-14C518606D0B-
+
+CCpResource tuneUpDemo/gears.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/gears.png
+s395806639.941605
+e395806639.952706
+r1
+xCpResource
+xtuneUpDemo/gears.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/gears.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/gears.png0340f1af8797b741^fbe5f3af8797b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/gears.png000000000080d041^1030"CpResource tuneUpDemo/gears.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/gears.png    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/gears.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app36"B1785BC4-B62F-4E3D-8935-7B78B27ABF73-
+
+CCpResource tuneUpDemo/ptree.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/ptree.png
+s395806629.534338
+e395806629.546380
+r1
+xCpResource
+xtuneUpDemo/ptree.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/ptree.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/ptree.png7cee88a58797b741^5ddf8ba58797b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/ptree.png000000000080d041^1040"CpResource tuneUpDemo/ptree.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/ptree.png    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/ptree.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app36"1273B4AA-1282-46DE-85FD-0F39F095F597-
+
+CCpResource tuneUpDemo/ptree.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/ptree.png
+s395806639.941590
+e395806639.947648
+r1
+xCpResource
+xtuneUpDemo/ptree.png
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/ptree.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/ptree.png8a3cf1af8797b741^ee98f2af8797b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/ptree.png000000000080d041^1030"CpResource tuneUpDemo/ptree.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/ptree.png    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/ptree.png /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app36"7375B715-8D76-4452-BF76-B7F38032C687-
+
+CGenerateDSYMFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app.dSYM /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo
+s395806629.509752
+e395806629.526464
+r1
+xGenerateDSYMFile
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app.dSYM
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Generate /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app.dSYMe19782a58797b741^00c786a58797b741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app.dSYM000000000080d041^984"GenerateDSYMFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app.dSYM /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app.dSYM36"0359131D-B867-44A6-BA1B-F28F7E81B234-
+
+CGenerateDSYMFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app.dSYM /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo
+s395806639.915375
+e395806639.933303
+r1
+xGenerateDSYMFile
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app.dSYM
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Generate /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app.dSYM766eeaaf8797b741^4aeceeaf8797b741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app.dSYM000000000080d041^964"GenerateDSYMFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app.dSYM /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app.dSYM36"48933001-2AFF-42FA-9436-FC8263BFE101-
+
+CLd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo normal i386
+s395806629.481497
+e395806629.502717
+r1
+xLd
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo5e637ba58797b741^10b280a58797b741^---0#0#0#--1494"Ld /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo normal i386    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad -F/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad -filelist /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/tuneUpDemo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/tuneUpDemo36"D1D87DDF-69C0-4C10-A097-74A849721A6E-
+
+CLd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo normal i386
+s395806639.888035
+e395806639.908820
+r1
+xLd
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Link /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo5072e3af8797b741^5da8e8af8797b741^---0#0#0#--1474"Ld /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo normal i386    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output -F/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output -filelist /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/Objects-normal/i386/tuneUpDemo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/tuneUpDemo36"18B70352-C6AA-4840-A389-53E33D3EC251-
+
+CProcessInfoPlistFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Info.plist tuneUpDemo/tuneUpDemo-Info.plist
+s395806629.456940
+e395806629.460331
+r1
+xProcessInfoPlistFile
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Info.plist
+xtuneUpDemo/tuneUpDemo-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process tuneUpDemo/tuneUpDemo-Info.plist591575a58797b741^88d775a58797b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/tuneUpDemo-Info.plist0000000000000000^978"ProcessInfoPlistFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Info.plist tuneUpDemo/tuneUpDemo-Info.plist    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility tuneUpDemo/tuneUpDemo-Info.plist -genpkginfo /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app/Info.plist36"0ECF89BC-7D15-4294-B02F-686E0F89910A-
+
+CProcessInfoPlistFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Info.plist tuneUpDemo/tuneUpDemo-Info.plist
+s395806639.768270
+e395806639.771696
+r1
+xProcessInfoPlistFile
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Info.plist
+xtuneUpDemo/tuneUpDemo-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process tuneUpDemo/tuneUpDemo-Info.plistb5c6c4af8797b741^588dc5af8797b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/tuneUpDemo-Info.plist0000000000000000^963"ProcessInfoPlistFile /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Info.plist tuneUpDemo/tuneUpDemo-Info.plist    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility tuneUpDemo/tuneUpDemo-Info.plist -genpkginfo /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app/Info.plist36"C0AAB63A-C836-4442-B06C-9FE10691D89B-
+
+CProcessPCH /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-chrbuyrunpprlhdgnsfkvmyxkugl/tuneUpDemo-Prefix.pch.pth tuneUpDemo/tuneUpDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395806073.440550
+e395806073.766824
+r1
+xProcessPCH
+x/var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-chrbuyrunpprlhdgnsfkvmyxkugl/tuneUpDemo-Prefix.pch.pth
+xtuneUpDemo/tuneUpDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile tuneUpDemo/tuneUpDemo-Prefix.pch3df170798597b741^0550c4798597b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/tuneUpDemo-Prefix.pch0000000000000000^4006"ProcessPCH /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-chrbuyrunpprlhdgnsfkvmyxkugl/tuneUpDemo-Prefix.pch.pth tuneUpDemo/tuneUpDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-generated-files.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-own-target-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-all-target-headers.hmap -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-project-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources/i386 -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources -F/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-chrbuyrunpprlhdgnsfkvmyxkugl/tuneUpDemo-Prefix.pch.dia -c /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/tuneUpDemo-Prefix.pch -o /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-chrbuyrunpprlhdgnsfkvmyxkugl/tuneUpDemo-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-chrbuyrunpprlhdgnsfkvmyxkugl/tuneUpDemo-Prefix.pch.d36"432D35A8-CE4E-436A-8BE6-F2405C04F223-
+
+CProcessPCH /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch.pth tuneUpDemo/tuneUpDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s395705345.246721
+e395705345.659808
+r1
+xProcessPCH
+x/var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch.pth
+xtuneUpDemo/tuneUpDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile tuneUpDemo/tuneUpDemo-Prefix.pch00563f01fc95b741^2de9a801fc95b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/tuneUpDemo-Prefix.pch0000000000000000^3996"ProcessPCH /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch.pth tuneUpDemo/tuneUpDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-generated-files.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-own-target-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-all-target-headers.hmap -iquote /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/tuneUpDemo-project-headers.hmap -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources/i386 -I/Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/build/tuneUpDemo.build/Release-iphonesimulator/tuneUpDemo.build/DerivedSources -F/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch.dia -c /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo/tuneUpDemo/tuneUpDemo-Prefix.pch -o /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/sk/_bxqfgl91lj_7hnrvb5fzx3w0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/tuneUpDemo-Prefix-ftvkeunxwsckahcdeufdpcybkqqr/tuneUpDemo-Prefix.pch.d36"FEE321D0-2B1F-4B08-B99D-092932A12F93-
+
+CTouch /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app
+s395806630.644461
+e395806630.649344
+r1
+xTouch
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Touch /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app880ea5a68797b741^253ba6a68797b741^---0#0#0#--706"Touch /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/tuneUpDemo.app36"9B78BCCF-804A-45C2-A4D2-C41D574C02EC-
+
+CTouch /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app
+s395806640.293718
+e395806640.298607
+r1
+xTouch
+x/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Touch /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.appf94b4bb08797b741^3f714cb08797b741^---0#0#0#--696"Touch /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app    cd /Users/dominicmacanas/Desktop/Projects/meetUpDemo/tuneUpDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/gems/ruby-1.8.7-p371@global/bin:/Users/dominicmacanas/.rvm/rubies/ruby-1.8.7-p371/bin:/Users/dominicmacanas/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/tuneUpDemo.app36"DE467632-929A-4417-9AFF-F55CF1DBF675-
+

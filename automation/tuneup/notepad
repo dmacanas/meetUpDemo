@@ -1,0 +1,8 @@
+xcodebuild -sdk iphonesimulator6.1 -arch i386 -project tuneUpDemo.xcodeproj/ CONFIGURATION_BUILD_DIR=/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ TARGETED_DEVICE_FAMILY="1"
+
+xcodebuild -sdk iphonesimulator6.1 -arch i386 -project tuneUpDemo.xcodeproj/ CONFIGURATION_BUILD_DIR=/Users/dominicmacanas/Desktop/Projects/meetUpDemo/output/ipad/ TARGETED_DEVICE_FAMILY="2"
+
+
+./automation/tuneup/test_runner/run output/tuneUpDemo.app automation/testSuite.js automation/testResults/ -cxv
+
+./automation/tuneup/test_runner/run output/ipad/tuneUpDemo.app automation/testSuite.js automation/testResults/ -cxv

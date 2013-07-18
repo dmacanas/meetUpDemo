@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/LICENSE
+END
+image_assertion.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/image_assertion.js
+END
+assertions.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/assertions.js
+END
+uiautomation-ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/uiautomation-ext.js
+END
+image_asserter
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/image_asserter
+END
+lang-ext.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/lang-ext.js
+END
+screen.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/screen.js
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/test.js
+END
+image_assertion.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/image_assertion.rb
+END
+tuneup.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/tuneup.js
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mobile/!svn/ver/7857/iphone/trunk/mobileshopper/UIAutomation/tests/scripts/tuneup/README.md
+END
